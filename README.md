@@ -9,9 +9,6 @@ _The legal assistant you never knew you needed, but always wanted._
 
 ---
 
-## 📺 Demo-video 
-  - https://youtu.be/wT9OfX2xYgg
-
 ## ✨ Key Features  
 - **Deep Legal Research**  
   Search through lakhs of real court judgments across the Supreme Court, High Courts, and District Courts.  
